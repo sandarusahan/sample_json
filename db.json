@@ -1,0 +1,34 @@
+{
+    "products": [
+    {
+    "pId": "1jakjs",
+    "pName": "Produt 1",
+    "pCategory": "Category 1",
+    "pDescription": "Product desc 1",
+    "pPrice": 2100,
+    "pQty": 10,
+    "pImg": "https://res.cloudinary.com/apiit-eea/image/upload/v1552814834/Screenshot_4_a1bcqs.png",
+    "isActive": true
+    },
+    {
+        "pId": "sfsgdtga",
+        "pName": "Produt 2",
+        "pCategory": "Category 1",
+        "pDescription": "Product desc 1",
+        "pPrice": 2100,
+        "pQty": 10,
+        "pImg": "https://res.cloudinary.com/apiit-eea/image/upload/v1552506824/IMG-5444.jpg",
+        "isActive": true
+    },
+    {
+        "pId": "asdasfvargs",
+        "pName": "Produt 3",
+        "pCategory": "Category 1",
+        "pDescription": "Product desc 1",
+        "pPrice": 2100,
+        "pQty": 10,
+        "pImg": "https://res.cloudinary.com/apiit-eea/image/upload/v1552506824/FullSizeRender_59.jpg",
+        "isActive": true
+    }
+    ]
+}
